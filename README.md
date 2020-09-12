@@ -1,1 +1,1 @@
-This is the first Odin Project for maing a google search page (not functional).
+This is the first Odin Project for making a google search page (not functional).

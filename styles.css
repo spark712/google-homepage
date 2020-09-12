@@ -1,3 +1,6 @@
+* {
+    font-family: sans-serif;
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -19,4 +22,17 @@ li a {
 li a:hover{
     color: #000;
     text-decoration: underline;
+}
+div {
+    display: block;
+    text-align: center;
+    padding: 200px;
+    padding-bottom: 440px
+}
+#search{
+    display: flex;
+    
+}
+.foot {
+    float: left;
 }
